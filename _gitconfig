@@ -1,6 +1,6 @@
 [user]
-    name = thorstenhauser
-    email = crafty.hauser@gmail.com
+    name = thorsten.hauser
+    email = thorsten.hauser@icongmbh.de
 [input]
     path = ~/.gitconfig_user
 [core]
